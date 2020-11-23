@@ -27,7 +27,7 @@ jobs:
         with:
           # Artifact name
           name: test
-          path: $GITHUB_WORKSPACE/prathamesh.txt
+          path: test/test/dipesh.txt
           # A file, directory or wildcard pattern that describes what to upload
 
       # Runs a single command using the runners shell
