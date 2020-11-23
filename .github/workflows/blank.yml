@@ -27,6 +27,7 @@ jobs:
         with:
           # Artifact name
           name: test
+          path: /prathamesh
           # A file, directory or wildcard pattern that describes what to upload
 
       # Runs a single command using the runners shell
