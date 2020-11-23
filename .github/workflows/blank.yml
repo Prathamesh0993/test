@@ -27,7 +27,7 @@ jobs:
         with:
           # Artifact name
           name: test
-          path: test/test/dipesh.txt
+          path: prathamesh.txt
           # A file, directory or wildcard pattern that describes what to upload
 
       # Runs a single command using the runners shell
